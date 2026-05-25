@@ -1,0 +1,23 @@
+# Временные файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Файлы редакторов (если используете)
+*.swp
+*.swo
+*~
+
+# Логи и бекапы
+*.log
+*.bak
+*.sql.bak
+
+# Если работаете в PyCharm/VSCode
+.idea/
+.vscode/
+*.iml
+
+# Не загружайте пароли, если случайно вставили в скрипты
+config.ini
+.secrets
